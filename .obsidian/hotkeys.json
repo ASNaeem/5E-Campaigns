@@ -1,0 +1,20 @@
+{
+  "dataview:dataview-rebuild-current-view": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "B"
+    }
+  ],
+  "table-editor-obsidian:evaluate-formulas": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "P"
+    }
+  ]
+}
