@@ -6,9 +6,12 @@
   "quick-latex",
   "table-editor-obsidian",
   "obsidian-custom-frames",
-  "metadata-menu",
   "obsidian-meta-bind-plugin",
   "dataview",
   "supercharged-links-obsidian",
-  "metaedit"
+  "obsidian-git",
+  "obsidian-linter",
+  "metadata-menu",
+  "metaedit",
+  "obsidian-languagetool-plugin"
 ]

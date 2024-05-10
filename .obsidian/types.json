@@ -1,0 +1,18 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "base": "number",
+    "sorc": "number",
+    "war": "number",
+    "data": "text",
+    "rhp": "number",
+    "dex": "number",
+    "con": "number",
+    "cha": "number",
+    "wis": "number",
+    "int": "number",
+    "prof": "number"
+  }
+}

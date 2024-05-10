@@ -1,18 +1,23 @@
 {
   "ProgressProperties": {
-    "enabled": false,
+    "enabled": true,
     "properties": []
   },
   "IgnoredProperties": {
-    "enabled": false,
-    "properties": []
+    "enabled": true,
+    "properties": [
+      "data",
+      "mod",
+      "prof",
+      ""
+    ]
   },
   "AutoProperties": {
     "enabled": false,
     "properties": []
   },
   "EditMode": {
-    "mode": "All Multi",
+    "mode": "Some Multi",
     "properties": []
   },
   "KanbanHelper": {

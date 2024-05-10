@@ -1,3 +1,6 @@
 {
-  "showLineNumber": true
+  "showLineNumber": true,
+  "livePreview": true,
+  "spellcheck": false,
+  "readableLineLength": true
 }
