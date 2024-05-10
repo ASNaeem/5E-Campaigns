@@ -66,11 +66,11 @@ Adventure_Diary:Yinro: dfgdfg
 
 ## Abilities
 ### Abilities
-STR | DEX | CON | INT | WIS | CHA ||
-:---:|:----:|:----:|:---:|:---:|:---:|---|
-7 | 15 | 15 | 13 | 9 | 18 | **Stats** |
--2 | +2 | +2 | +2 | -1 | +4 | **Modifier** |
--2 | +2 | +5 | +1 | -1 | +7 | **Saving Throw** |
+| STR | DEX | CON | INT | WIS | CHA | \#               |
+| :-: | :-: | :-: | :-: | :-: | :-: | ---------------- |
+|  7  | 15  | 15  | 13  |  9  | 18  | **Stats**        |
+| -2  | +2  | +2  | +2  | -1  | +4  | **Modifier**     |
+| -2  | +2  | +5  | +1  | -1  | +7  | **Saving Throw** |
 
 
 ### Skills
