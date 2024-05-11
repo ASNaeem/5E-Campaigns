@@ -106,8 +106,9 @@ Adventure_Diary:Yinro:
 - Sylvan
 
 # Actions
-`[x]`
+**Sorcerer Points:**<p><input type=checkbox><input type=checkbox><input type=checkbox><input type=checkbox><input type=checkbox><input type=checkbox><input type=checkbox></p>
 #### Attack
+
 - **Weapon Attacks Table**
 
 | Weapon | Attack Bonus | Damage/Type | Range |
