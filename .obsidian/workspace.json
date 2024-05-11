@@ -25,13 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DND.SRD.Wiki-master/Classes/Sorcerer.md",
+                "file": "TTRPG notes/Yinro's Adventure Diary.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -108,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TTRPG notes/Yinro Belelor.md",
+                "file": "TTRPG notes/Yinro's Adventure Diary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TTRPG notes/Yinro Belelor.md",
+                "file": "TTRPG notes/Yinro's Adventure Diary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TTRPG notes/Yinro Belelor.md"
+                "file": "TTRPG notes/Yinro's Adventure Diary.md"
               }
             }
           },
@@ -178,10 +179,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6466ae6d5703fb1b",
+  "active": "e771f54f7a205525",
   "lastOpenFiles": [
-    "DND.SRD.Wiki-master/Classes/Sorcerer.md",
     "TTRPG notes/Yinro Belelor.md",
+    "TTRPG notes/Yinro's Adventure Diary.md",
+    "DND.SRD.Wiki-master/Classes/Sorcerer.md",
     "DND.SRD.Wiki-master/Equipment/Gear.md",
     "DND.SRD.Wiki-master/Equipment/Transportation.md",
     "DND.SRD.Wiki-master/Equipment/Weapons.md",
@@ -190,7 +192,6 @@
     "TTRPG notes/Spells.md",
     "TTRPG notes/Items.md",
     "DND.SRD.Wiki-master/Classes/Warlock.md",
-    "TTRPG notes/Yinro's Adventure Diary.md",
     "TTRPG notes/stats.md",
     "TTRPG notes/Templates.md",
     "DND.SRD.Wiki-master/Spells/Acid Splash.md",
