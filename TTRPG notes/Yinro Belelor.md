@@ -74,17 +74,17 @@ Adventure_Diary:Yinro:
 ### Skills
 |           Bonus           |      Skill       | Ability | Proficiency |
 | :-----------------------: | :--------------: | :-----: | :---------: |
-|       +`= this.dex`       |    Acrobatics    |   DEX   |             |
-|       `= this.wis`        | Animal Handling  |   WIS   |             |
+|       +`= this.dex`       |    Acrobatics    |   DEX   |      N      |
+|       `= this.wis`        | Animal Handling  |   WIS   |      N      |
 | +`= this.int + this.prof` |    **Arcana**    |   INT   |    **P**    |
-|       `= this.str`        |    Athletics     |   STR   |             |
+|       `= this.str`        |    Athletics     |   STR   |      N      |
 | +`= this.cha + this.prof` |  **Deception**   |   CHA   |    **P**    |
 | +`= this.int + this.prof` |   **History**    |   INT   |    **P**    |
-|       `= this.wis`        |     Insight      |   WIS   |             |
+|       `= this.wis`        |     Insight      |   WIS   |      N      |
 | +`= this.cha + this.prof` | **Intimidation** |   CHA   |    **P**    |
-|       +`= this.int`       |  Investigation   |   INT   |             |
-|       `= this.wis`        |     Medicine     |   WIS   |             |
-|       `= this.wis`        |      Nature      |   WIS   |             |
+|       +`= this.int`       |  Investigation   |   INT   |      N      |
+|       `= this.wis`        |     Medicine     |   WIS   |      N      |
+|       `= this.wis`        |      Nature      |   WIS   |      N      |
 |       `= this.wis`        |    Perception    |   WIS   |      N      |
 |       +`= this.cha`       |   Performance    |   CHA   |      N      |
 | +`= this.cha + this.prof` |  **Persuasion**  |   CHA   |    **P**    |
@@ -94,14 +94,16 @@ Adventure_Diary:Yinro:
 |       `= this.wis`        |     Survival     |   WIS   |      N      |
 
 # Traits
-
-
-
-
 ## Proficiencies
-
+- Light Armor
+- Simple Weapons
 ## Languages
-
+- Celestial
+- Common
+- Draconic
+- Elvish
+- Primordial
+- Sylvan
 
 # Actions
 
@@ -140,6 +142,10 @@ Adventure_Diary:Yinro:
 - [[Spells#Counterspell|Counterspell]] (3rd Level, Sorcerer)
 # Free Actions
 - **Invoke Metamagic**
+	- Quickened
+	- Twinned
+	- Heightened
+	- Empowered
 
 
 
@@ -245,6 +251,25 @@ Adventure_Diary:Yinro:
 ## Class
 ### Sorcerer 
 #### Metamagic
+##### Empowered Spell
+
+When you roll damage for a spell, you can spend 1 sorcery point to reroll a number of the damage dice up to your Charisma modifier (minimum of one). You must use the new rolls.
+
+You can use Empowered Spell even if you have already used a different Metamagic option during the casting of the spell.
+
+##### Quickened Spell
+
+When you cast a spell that has a casting time of 1 action, you can spend 2 sorcery points to change the casting time to 1 bonus action for this casting.
+
+##### Subtle Spell
+
+When you cast a spell, you can spend 1 sorcery point to cast it without any somatic or verbal components.
+
+#### Twinned Spell
+
+When you cast a spell that targets only one creature and doesn't have a range of self, you can spend a number of sorcery points equal to the spell's level to target a second creature in range with the same spell (1 sorcery point if the spell is a cantrip).
+
+To be eligible, a spell must be incapable of targeting more than one creature at the spell's current level. For example, *magic missile* and *scorching ray* aren't eligible, but *ray of frost* and *chromatic orb* are.
 ### Warlock
 
 ## Feats
