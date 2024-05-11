@@ -53,7 +53,7 @@ Adventure_Diary:Yinro: dfgdfg
 # Stats
 
 |                         HP                          |             AC             |      Speed      |  Initiative   | Hit DIce                                 | Bonus        | Temp HP |
-| :-------------------------------------------------: | :------------------------: | :-------------: | :-----------: | ---------------------------------------- | ------------ | ------- |
+| :-------------------------------------------------: | :------------------------: | :-------------: | :-----------: | ---------------------------------------- | :------------: | :-------: |
 | `VIEW[{base_level}*{con}+{rolled_hp}+{sorc_level}]` | `VIEW[{base_armor}+{dex}]` | `VIEW[{speed}]` | `VIEW[{dex}]` | `=this.sorc_level`d6+`=this.war_level`d8 | `=this.prof` | 0       |
 # Senses 
 
@@ -153,7 +153,7 @@ Bonus | Skill | Ability | Proficiency |
 | ------------ | :------: | :-----: |
 | Modifier     |    +4    |   +4    |
 | Spell Attack |    +8    |   +7    |
-| Save DC      |    15    |   16    |
+| Save DC      |    16    |   15    |
 #### Cantrips
 | **Name**                                                       | **Time** | **Range** | **Hit / DC** | **Effect**  | **Notes**         |
 | -------------------------------------------------------------- | -------- | --------- | :----------: | ----------- | ----------------- |
@@ -233,8 +233,8 @@ Bonus | Skill | Ability | Proficiency |
 - [[Items#Scroll|Scroll of Mage Armor]] x1
 - [[Items#Scroll|Scroll of Burning Hand]] x1
 
-
-
+## Companions
+- Baby Ursa Polaris
 # Personality
 ###### Personality Traits
 
@@ -244,3 +244,13 @@ Bonus | Skill | Ability | Proficiency |
 
 ###### Flaws
 
+# Features
+## Racial
+
+## Class
+### Sorcerer 
+#### Metamagic
+### Warlock
+
+## Feats
+### Metamagic Adept
