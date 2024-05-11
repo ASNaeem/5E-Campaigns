@@ -208,7 +208,7 @@ Adventure_Diary:Yinro: dfgdfg
 - [[Spells#Eldritch Blast|Eldritch Blast]] (Cantrip, Warlock): Action
 - [[Spells#Minor Illusion|Minor Illusion]] (Cantrip, Warlock): Action
 - [[Spells#Dissonant Whispers|Dissonant Whispers]] (1st Level, Warlock): Action
-- [[Spells#Hex|Hex]] (1st Level, Warlock): Bonus Action
+- [[Spells#Hellish Rebuke|Hellish Rebuke]] (1st Level, Warlock): Reaction
  
 # Possessions
 ## Currencies
