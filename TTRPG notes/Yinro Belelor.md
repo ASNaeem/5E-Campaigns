@@ -74,26 +74,26 @@ Adventure_Diary:Yinro: dfgdfg
 
 
 ### Skills
-Bonus | Skill | Ability | Proficiency |
-:--:|:-----:|:------:|:-----:|
-+`= this.dex` | Acrobatics | DEX |
-`= this.wis` | Animal Handling | WIS | 
-+`= this.int + this.prof` | **Arcana** | INT | **P**
-`= this.str` | Athletics | STR |
-+`= this.cha + this.prof` | **Deception** | CHA | **P**
-+`= this.int + this.prof` | **History** | INT | **P**
-`= this.wis` | Insight | WIS |
-+`= this.cha + this.prof` | **Intimidation** | CHA | **P**
-+`= this.int` | Investigation | INT |
-`= this.wis` | Medicine | WIS |
-`= this.wis` | Nature | WIS |
-`= this.wis` | Perception | WIS |
-+`= this.cha` | Performance | CHA |
-+`= this.cha + this.prof` | **Persuasion** | CHA | **P**
-+`= this.int` | Religion | INT |
-+`= this.dex + 2` | Sleight of Hand | DEX |
-+`= this.dex + this.prof` | **Stealth** | DEX | **P**
-`= this.wis` | Survival | WIS |
+| Bonus | Skill | Ability | Proficiency |
+| :---: | :---: | :-----: | :---------: |
+|+`= this.dex` | Acrobatics | DEX |
+|`= this.wis` | Animal Handling | WIS | 
+|+`= this.int + this.prof` | **Arcana** | INT | **P**
+|`= this.str` | Athletics | STR |
+|+`= this.cha + this.prof` | **Deception** | CHA | **P**
+|+`= this.int + this.prof` | **History** | INT | **P**
+|`= this.wis` | Insight | WIS |
+|+`= this.cha + this.prof` | **Intimidation** | CHA | **P**
+|+`= this.int` | Investigation | INT |
+|`= this.wis` | Medicine | WIS |
+|`= this.wis` | Nature | WIS |
+|`= this.wis` | Perception | WIS |
+|+`= this.cha` | Performance | CHA |
+|+`= this.cha + this.prof` | **Persuasion** | CHA | **P**
+|+`= this.int` | Religion | INT |
+|+`= this.dex + 2` | Sleight of Hand | DEX |
+|+`= this.dex + this.prof` | **Stealth** | DEX | **P**
+|`= this.wis` | Survival | WIS |
 
 
 
