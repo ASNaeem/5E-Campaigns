@@ -167,30 +167,31 @@ Adventure_Diary:Yinro:
 
 #### 1st Level  <p><input type=checkbox>Pact</p><p><input     type =checkbox><input     type =checkbox><input     type =checkbox><input type=checkbox>Slots</p>
 
-| **Name**                                          | **Time**   | **Range** | **Hit / DC** | **Effect**  | **Notes**    |
-| ------------------------------------------------- | ---------- | --------- | :----------: | ----------- | ------------ |
-| [[Spells#Dissonant Whispers\|Dissonant Whispers]] | 1 Action   | 60 feet   |    wis 15    | 3d6 psychic | V            |
-| [[Spells#Hellish Rebuke\|Hellish Rebuke]]         | 1 Reaction | 60 feet   |    dex 15    | 2d10 fire   | V/S          |
-| [[Spells#Magic Missile\|Magic Missile]]           | 1 Action   | 120 feet  |      -       | 1d4+1 force | V/S          |
-| [[Spells#Shield\|Shield]]                         | 1 Reaction | Self      |      -       | Warding     | D: 1Rnd, V/S |
+| **Name**                                          | **Time**   | **Range** | **Hit / DC** | **Effect**     | **Notes**    |
+| ------------------------------------------------- | ---------- | --------- | :----------: | -------------- | ------------ |
+| [[Spells#Dissonant Whispers\|Dissonant Whispers]] | 1 Action   | 60 feet   |    wis 15    | 3d6 psychic    | V            |
+| [[Spells#Hellish Rebuke\|Hellish Rebuke]]         | 1 Reaction | 60 feet   |    dex 15    | 2d10 fire      | V/S          |
+| [[Spells#Chaos Bolt\|Chaos Bolt]]                 | 1 Action   | 120 feet  |      +8      | 2d8+1d6 random | Special, V/S |
+| [[Spells#Shield\|Shield]]                         | 1 Reaction | Self      |      -       | Warding        | D: 1Rnd, V/S |
 
 
 #### 2nd Level <p><input     type =checkbox><input     type =checkbox><input     type =checkbox>Slots</p>
 
-| **Name**                                          | **Time**   | **Range** | **Hit / DC** | **Effect**  | **Notes**     |
-| ------------------------------------------------- | ---------- | --------- | :----------: | ----------- | ------------- |
-| [[Spells#Dissonant Whispers\|Dissonant Whispers]] | 1 Action   | 60 feet   | wis 15       | 4d6 psychic | V             |
-| [[Spells#Hellish Rebuke\|Hellish Rebuke]]         | 1 Reaction | 60 feet   | dex 15       | 3d10 fire   | V/S           |
-| [[Spells#Magic Missile\|Magic Missile]]           | 1 Action   | 120 feet  | -            | 1d4+1 force | Count: 4, V/S |
+| **Name**                                          | **Time**   | **Range** | **Hit / DC** | **Effect**     | **Notes**    |
+| ------------------------------------------------- | ---------- | --------- | :----------: | -------------- | ------------ |
+| [[Spells#Dissonant Whispers\|Dissonant Whispers]] | 1 Action   | 60 feet   |    wis 15    | 4d6 psychic    | V            |
+| [[Spells#Hellish Rebuke\|Hellish Rebuke]]         | 1 Reaction | 60 feet   |    dex 15    | 3d10 fire      | V/S          |
+| [[Spells#Chaos Bolt\|Chaos Bolt]]                 | 1 Action   | 120 feet  |      +8      | 2d8+2d6 random | Special, V/S |
 
 #### 3rd Level <p><input     type =checkbox><input     type =checkbox>Slots</p>
-| **Name**                                          | **Time**   | **Range** | **Hit / DC** | **Effect**  | **Notes**     |
-| ------------------------------------------------- | ---------- | --------- | :----------: | ----------- | ------------- |
-| [[Spells#Counterspell\|Counterspell]]             | 1 Reaction | 60 feet   | -            | Negation    | Special, S    |
-| [[Spells#Dissonant Whispers\|Dissonant Whispers]] | 1 Action   | 60 feet   | wis 15       | 5d6 psychic | V             |
-| [[Spells#Fireball\|Fireball]]                     | 1 Action   | 150 feet  | dex 15       | 8d6 fire    | 20ft. V/S/M   |
-| [[Spells#Hellish Rebuke\|Hellish Rebuke]]         | 1 Reaction | 60 feet   | dex 15       | 4d10 fire   | V/S           |
-| [[Spells#Magic Missile\|Magic Missile]]           | 1 Action   | 120 feet  | -            | 1d4+1 force | Count: 5, V/S |
+| **Name**                                          | **Time**   | **Range** | **Hit / DC** | **Effect**     | **Notes**           |
+| ------------------------------------------------- | ---------- | --------- | :----------: | -------------- | ------------------- |
+| [[Spells#Counterspell\|Counterspell]]             | 1 Reaction | 60 feet   |      -       | Negation       | Special, S          |
+| [[Spells#Dissonant Whispers\|Dissonant Whispers]] | 1 Action   | 60 feet   |    wis 15    | 5d6 psychic    | V                   |
+| [[Spells#Fireball\|Fireball]]                     | 1 Action   | 150 feet  |    dex 15    | 8d6 fire       | 20ft. V/S/M         |
+| [[Spells#Hellish Rebuke\|Hellish Rebuke]]         | 1 Reaction | 60 feet   |    dex 15    | 4d10 fire      | V/S                 |
+| [[Spells#Slow\|Slow]]                             | 1 Action   | 120 feet  |    wis 16    | Control        | D: 1m, 40ft., V/S/M |
+| [[Spells#Chaos Bolt\|Chaos Bolt]]                 | 1 Action   | 120 feet  |      +8      | 2d8+3d6 random | Special, V/S        |
 
 #### Sorcerer Spells
 - [[Spells#Control Flames|Control Flames]] (Cantrip, Sorcerer): Action
