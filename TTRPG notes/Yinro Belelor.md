@@ -106,14 +106,15 @@ Adventure_Diary:Yinro:
 - Sylvan
 
 # Actions
-
+`[x]`
 #### Attack
 - **Weapon Attacks Table**
-    - |Weapon|Attack Bonus|Damage/Type|Range|
-        |---|---|---|---|
-        Light Crossbow|+5|1d8 + `=this.dex` piercing|80/320 ft|
-        Dagger|+5|1d4 + `=this.dex` piercing|20/60 ft|
-        Short Sword|+5|1d6 + `=this.dex` slashing|Melee|
+
+| Weapon | Attack Bonus | Damage/Type | Range |
+| ------ | :------------: | ----------- | ----- |
+|Light Crossbow|+5|1d8 + `=this.dex` piercing|80/320 ft|
+|Dagger|+5|1d4 + `=this.dex` piercing|20/60 ft|
+|Short Sword|+5|1d6 + `=this.dex` slashing|Melee|
 
 #### Movement and General
 - Dash, Disengage, Dodge, Help, Hide, Ready, Search, Use an Object
