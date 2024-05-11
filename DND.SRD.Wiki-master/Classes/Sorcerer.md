@@ -229,3 +229,15 @@ You can't manifest your wings while wearing armor unless the armor is made to ac
 #### Draconic Presence
 
 Beginning at 18th level, you can channel the dread presence of your dragon ancestor, causing those around you to become awestruck or frightened. As an action, you can spend 5 sorcery points to draw on this power and exude an aura of awe or fear (your choice) to a distance of 60 feet. For 1 minute or until you lose your concentration (as if you were casting a concentration spell), each hostile creature that starts its turn in this aura must succeed on a Wisdom saving throw or be charmed (if you chose awe) or frightened (if you chose fear) until the aura ends. A creature that succeeds on this saving throw is immune to your aura for 24 hours.
+
+### Sorcerous Versatility (Optional)
+
+When you reach a level in this class that grants the Ability Score Improvement feature, you can do one of the following, representing the magic within you flowing in new ways:
+
+- Replace one of the options you chose for the Metamagic feature with a different Metamagic option available to you.
+
+- Replace one cantrip you learned from this class' spellcasting feature with another cantrip from the sorcerer spell list.
+
+### Magical Guidance (Optional)
+
+When you reach 5th level, you can tap into your inner wellspring of magic to try and conjure success from failure. When you make an ability check that fails, you can spend 1 sorcery point to reroll the d20, and you must use the new roll, potentially turning the failure into a success.

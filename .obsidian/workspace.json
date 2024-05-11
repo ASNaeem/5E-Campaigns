@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DND.SRD.Wiki-master/Classes/Sorcerer.md",
+                "file": "TTRPG notes/Yinro Belelor.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DND.SRD.Wiki-master/Classes/Sorcerer.md",
+                "file": "TTRPG notes/Yinro Belelor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DND.SRD.Wiki-master/Classes/Sorcerer.md",
+                "file": "TTRPG notes/Yinro Belelor.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DND.SRD.Wiki-master/Classes/Sorcerer.md"
+                "file": "TTRPG notes/Yinro Belelor.md"
               }
             }
           },
@@ -180,9 +180,9 @@
   },
   "active": "6466ae6d5703fb1b",
   "lastOpenFiles": [
-    "TTRPG notes/Yinro Belelor.md",
-    "TTRPG notes/Yinro's Adventure Diary.md",
     "DND.SRD.Wiki-master/Classes/Sorcerer.md",
+    "TTRPG notes/Yinro's Adventure Diary.md",
+    "TTRPG notes/Yinro Belelor.md",
     "DND.SRD.Wiki-master/Equipment/Gear.md",
     "DND.SRD.Wiki-master/Equipment/Transportation.md",
     "DND.SRD.Wiki-master/Equipment/Weapons.md",
