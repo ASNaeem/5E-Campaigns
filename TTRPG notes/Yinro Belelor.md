@@ -157,13 +157,13 @@ Adventure_Diary:Yinro:
 #### Cantrips
 | **Name**                                                       | **Time** | **Range** | **Hit / DC** | **Effect**  | **Notes**         |
 | -------------------------------------------------------------- | -------- | --------- | :----------: | ----------- | ----------------- |
-| [[Spells#Control Flames\|Control Flames]]                      | 1 Action | 60 feet   |      -       | Control     | 5ft., S           |
-| [[Spells#Eldritch Blast\|Eldritch Blast]]                      | 1 Action | 120 feet  |      +7      | 1d10        | Count: 2, V/S     |
-|  [[Spells#Fire Bolt\|Fire Bolt]]           \| 1 Action \| 120  et  |      +7      | 2d10        | V/S               |
-| [[Spells#Mending\|Mending]]               | 1                                         |      -       | Utility     | V/S/M             |
-| [[Spells#Minor Illusion\|Minor Illusion]] | 1 Action | 30 fe                      t   |      -       | Control     | 5ft., S/M         |
-| [[Spells#Shape Water\|Shape Water]]       | 1 Action |                            t   |      -       | Control     | 5ft., S           |
-| [[Spells#Mind Sliver\|Mind Sliver]]       | 1 Action |                            t   |    int 16    | 1d6 psychic | D: 1Rnd, SpecialV |
+| [[Spells#Control Flames\|Control Flames]]| 1 Action | 60 feet   |      -       | Control     | 5ft., S           |
+| [[Spells#Eldritch Blast\|Eldritch Blast]]| 1 Action | 120 feet  |      +7      | 1d10        | Count: 2, V/S     |
+|  [[Spells#Fire Bolt\|Fire Bolt]]| 1 Action | 120  feet  |      +8      | 2d10        | V/S/M               |
+| [[Spells#Mending\|Mending]]     | 1 Minute |      -      | -   | Utility     | V/S/M             |
+| [[Spells#Minor Illusion\|Minor Illusion]]| 1 Action | 30 feet   |    -   | Control     | 5ft., S/M         |
+| [[Spells#Shape Water\|Shape Water]]| 1 Action |   30 feet   |      -       | Control     | 5ft., S           |
+| [[Spells#Mind Sliver\|Mind Sliver]]| 1 Action |   60 feet   |    int 16    | 1d6 psychic | D: 1Rnd, Special, V |
 
 #### 1st Level  <p><input type=checkbox>Pact</p><p><input     type =checkbox><input     type =checkbox><input     type =checkbox><input type=checkbox>Slots</p>
 

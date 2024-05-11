@@ -14,8 +14,8 @@
               "type": "markdown",
               "state": {
                 "file": "TTRPG notes/Yinro Belelor.md",
-                "mode": "preview",
-                "source": true
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -81,7 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 311.49999618530273
+    "width": 200
   },
   "right": {
     "id": "daca2ed9414ebdd4",
