@@ -224,6 +224,8 @@ Adventure_Diary:Yinro:
 - [[Items#Light Crossbow|Light Crossbow]]
 - [[Items#Component Pouch|Component Pouch]]
 - [[Items#Explorer's Pack|Explorer's Pack]]
+- Expensive Clothes
+- Black Clothes
 
 #### Magic Items
 - [[Items#Bloodwell Vial|Bloodwell Vial (Uncommon)]]

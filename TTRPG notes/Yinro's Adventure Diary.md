@@ -11,7 +11,7 @@ publish: true
 Magic Academy - Amethyst Seminary
 
 **Allies**
-
+>
 Valtor Belelor - Father, Human
 Gwendolyn Belelor - Mother
 High-elf Lirien - High elf
@@ -19,11 +19,11 @@ magic master Xandar - Lirien's friend, Headmaster of Amethyst Seminary
 Kipper - a cheerful halfling bard with a quick wit
 Thoren - a rugged dwarven blacksmith with a strong arm and a soft heart
 Zara - a secretive tiefling rogue with a sharp mind
-
+>
 Dream’Walker - a spiritualist with a deep connection to the world around him.
 Rifyr - Half-elf, Scrivener
 Aegnor - Half-elf, Brightlord
-Exevier - Halfling
+Exevier - Halfling, Horny Rogue
 Hephaestus - Tiefling
 Elara - a mischivious classmate 
 Professor jarn - 
