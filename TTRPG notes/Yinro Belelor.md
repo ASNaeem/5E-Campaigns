@@ -226,6 +226,7 @@ Adventure_Diary:Yinro:
 - [[Items#Explorer's Pack|Explorer's Pack]]
 - Expensive Clothes
 - Black Clothes
+- Magic Key to a different spatial tavern
 
 #### Magic Items
 - [[Items#Bloodwell Vial|Bloodwell Vial (Uncommon)]]
