@@ -63,4 +63,4 @@ Professor jarn -
 >Patron, some people previously saw similar dreams of an eye, some of them went mad and most of them were mage.
 
 >Lord armand's mansion, preparing to ambush
->
+>the hand of chains, rebellion group
