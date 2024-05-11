@@ -81,11 +81,11 @@ Adventure_Diary:Yinro: dfgdfg
 |+`= this.int + this.prof` | **Arcana** | INT | **P**
 |`= this.str` | Athletics | STR |
 |+`= this.cha + this.prof` | **Deception** | CHA | **P**
-+`= this.int + this.prof` | **History** | INT | **P**
-`= this.wis` | Insight | WIS |
-+`= this.cha + this.prof` | **Intimidation** | CHA | **P**
-+`= this.int` | Investigation | INT |
-`= this.wis` | Medicine | WIS |
+|+`= this.int + this.prof` | **History** | INT | **P**
+|`= this.wis` | Insight | WIS |
+|+`= this.cha + this.prof` | **Intimidation** | CHA | **P**
+|+`= this.int` | Investigation | INT |
+|`= this.wis` | Medicine | WIS |
 |`= this.wis` | Nature | WIS |
 |`= this.wis` | Perception | WIS |
 |+`= this.cha` | Performance | CHA |
