@@ -1,4 +1,3 @@
-```mermaid
 graph TD;
     User -->|Registration Information| User_Registration[1. User Registration and Login]
     User_Registration -->|Login Credentials| User_Data[User Data]
