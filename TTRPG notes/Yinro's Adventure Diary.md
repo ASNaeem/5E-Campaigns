@@ -64,4 +64,11 @@ Professor jarn -
 
 >Lord armand's mansion, preparing to ambush
 >the hand of chains, rebellion group
->
+man wolf
+mage of the werewolves
+liriens research was werewolves
+They had a job for the man wolf
+
+
+
+>sword and wings marking, underground from the incident with hand of chains
