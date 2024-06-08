@@ -278,3 +278,10 @@ To be eligible, a spell must be incapable of targeting more than one creature at
 
 ## Feats
 ### Metamagic Adept
+
+
+
+black robe,
+deeper voice, human, taller 6ft+, single person
+incompetence
+the night before
