@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "TTRPG notes/Yinro Belelor.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -180,6 +180,8 @@
   },
   "active": "6466ae6d5703fb1b",
   "lastOpenFiles": [
+    "new/Nightmare.md",
+    "new",
     "DND.SRD.Wiki-master/Classes/Sorcerer.md",
     "TTRPG notes/Yinro's Adventure Diary.md",
     "TTRPG notes/Yinro Belelor.md",
@@ -206,7 +208,6 @@
     "TTRPG notes",
     "TTRPG notes.md",
     "Templates.md",
-    "stats.md",
     "DND.SRD.Wiki-master/Treasure (Alt)",
     "DND.SRD.Wiki-master/Treasure",
     "DND.SRD.Wiki-master/Spells (Alt)",
@@ -216,7 +217,6 @@
     "DND.SRD.Wiki-master/Monsters (Alt)",
     "DND.SRD.Wiki-master/Monsters",
     "DND.SRD.Wiki-master/Gameplay",
-    "DND.SRD.Wiki-master/Gamemastering",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]
