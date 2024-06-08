@@ -227,7 +227,7 @@ Adventure_Diary:Yinro:
 - [[Items#Explorer's Pack|Explorer's Pack]]
 - Expensive Clothes
 - Black Clothes
-- Magic Key to a different spatial tavern
+- Key to Ganather's Tavern ( DIfferent dimension)
 - 450 gold worth of gems
 
 #### Magic Items
@@ -288,8 +288,12 @@ the night before
 receptionist mark
 boar head in a circle symbol
 
+>magical stone at lord armands place
+early days of creation to tame them someway of their natural evolution
+afterward it was corrupted
+
 blue dragon
 amethyst seminary stablished by
-magical 
+magical tomes and magical items
 deep boneblade, crystal edge march
 arcane knowledge, guardian of arcane knowledge, practices magic, creates new magic
