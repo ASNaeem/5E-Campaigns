@@ -74,3 +74,5 @@ They had a job for the man wolf
 >sword and wings marking, underground from the incident with hand of chains
 
 >lirien was working on the laylines of were creatures, the amount of were creatures in the area
+
+>There are people who are after stranger power, there are one who lives in the shadows and ones who look for it, when you are capable of it, look for them.
