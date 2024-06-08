@@ -218,7 +218,7 @@ Adventure_Diary:Yinro:
 ## Currencies
 | CP  | SP  | GP  | PP  |
 | :-: | :-: | :-: | :-: |
-|  7  |  2  | 124 |  0  |
+|  7  |  2  | 119 |  0  |
 
 ## Backpack
 #### Equipment
@@ -297,3 +297,6 @@ amethyst seminary stablished by
 magical tomes and magical items
 deep boneblade, crystal edge march
 arcane knowledge, guardian of arcane knowledge, practices magic, creates new magic
+
+>crystal edge marsh - lord of the light guard, dragon >ancient
+>deep boneblade - dragon - stage unknown
