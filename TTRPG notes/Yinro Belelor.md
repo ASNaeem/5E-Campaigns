@@ -285,3 +285,5 @@ black robe,
 deeper voice, human, taller 6ft+, single person
 incompetence
 the night before
+receptionist
+boar head in a circle symbol
