@@ -14,7 +14,7 @@ Magic Academy - Amethyst Seminary
 >
 Valtor Belelor - Father, Human
 Gwendolyn Belelor - Mother
-Lirien - High elf - Yinro's master
+Lirien - High elf - Yinro's master, transmutation wizard specialized in lycanthrophy
 magic master Xandar - Lirien's friend, Headmaster of Amethyst Seminary
 Kipper - a cheerful halfling bard with a quick wit
 Thoren - a rugged dwarven blacksmith with a strong arm and a soft heart
