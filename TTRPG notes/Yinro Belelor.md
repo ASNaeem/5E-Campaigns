@@ -216,9 +216,9 @@ Adventure_Diary:Yinro:
  
 # Possessions
 ## Currencies
-|CP | SP | GP | PP |
-|:---:|:---:|:---:|:---:|
-|7|2|129|0|
+| CP  | SP  | GP  | PP  |
+| :-: | :-: | :-: | :-: |
+|  7  |  2  | 124 |  0  |
 
 ## Backpack
 #### Equipment
@@ -285,5 +285,5 @@ black robe,
 deeper voice, human, taller 6ft+, single person
 incompetence
 the night before
-receptionist
+receptionist mark
 boar head in a circle symbol
