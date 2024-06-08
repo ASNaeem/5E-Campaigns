@@ -287,3 +287,9 @@ incompetence
 the night before
 receptionist mark
 boar head in a circle symbol
+
+blue dragon
+amethyst seminary stablished by
+magical 
+deep boneblade, crystal edge march
+arcane knowledge, guardian of arcane knowledge, practices magic, creates new magic
