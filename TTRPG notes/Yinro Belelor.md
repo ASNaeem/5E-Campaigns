@@ -229,7 +229,7 @@ Adventure_Diary:Yinro:
 - Black Clothes
 - Key to Ganather's Tavern ( DIfferent dimension)
 - 450 gold worth of gems
-
+25 gold owed to dreamwalker
 #### Magic Items
 - [[Items#Bloodwell Vial|Bloodwell Vial (Uncommon)]]
 - [[Items#Nethergrasp|Nethergrasp]]
