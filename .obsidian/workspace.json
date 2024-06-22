@@ -54,9 +54,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0d3727fff8686b9d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DND.SRD.Wiki-master/Classes/Warlock.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -133,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DND.SRD.Wiki-master/Classes/Sorcerer.md",
+                "file": "DND.SRD.Wiki-master/Classes/Warlock.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DND.SRD.Wiki-master/Classes/Sorcerer.md",
+                "file": "DND.SRD.Wiki-master/Classes/Warlock.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DND.SRD.Wiki-master/Classes/Sorcerer.md"
+                "file": "DND.SRD.Wiki-master/Classes/Warlock.md"
               }
             }
           },
@@ -204,7 +216,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2e938b0b0526ba17",
+  "active": "0d3727fff8686b9d",
   "lastOpenFiles": [
     "TTRPG notes/Yinro Belelor.md",
     "DND.SRD.Wiki-master/Classes/Sorcerer.md",

@@ -254,11 +254,14 @@ Adventure_Diary:Yinro:
 
 ## Class
 ### Sorcerer 
-- [[Sorcerer#Draconic Bloodline|Draconic Bloodline]]
+- [[Sorcerer#Dragon Ancestor|Dragon Ancestor]]
+- [[Sorcerer#Draconic Resilience|Draconic Resilience]]
 - [[Sorcerer#Metamagic|Metamagic]]
-- 
-### Warlock
+- [[Sorcerer#Sorcerous Versatility (Optional)|Sorcerous Versatility]]
+- [[Sorcerer#Magical Guidance (Optional)|Magical Guidance]]
 
+### Warlock
+- [[Warlock#]]
 ## Feats
 ### Metamagic Adept
 
