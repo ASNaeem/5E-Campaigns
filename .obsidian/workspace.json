@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "TTRPG notes/Yinro Belelor.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -38,18 +38,6 @@
               "type": "markdown",
               "state": {
                 "file": "TTRPG notes/Yinro's Adventure Diary.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f3678de698ed11f5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TTRPG notes/Spells.md",
                 "mode": "source",
                 "source": false
               }
@@ -217,11 +205,11 @@
   },
   "active": "6466ae6d5703fb1b",
   "lastOpenFiles": [
-    "DND.SRD.Wiki-master/Classes/Sorcerer.md",
-    "TTRPG notes/Yinro Belelor.md",
     "DND.SRD.Wiki-master/Classes/Warlock.md",
     "TTRPG notes/Yinro's Adventure Diary.md",
     "TTRPG notes/Spells.md",
+    "TTRPG notes/Yinro Belelor.md",
+    "DND.SRD.Wiki-master/Classes/Sorcerer.md",
     "TTRPG notes/Items.md",
     "new/Nightmare.md",
     "new",
