@@ -127,7 +127,7 @@ Adventure_Diary:Yinro:
 - [[Items#^deathStench|Deathly Stench]]
 - [[Items#^breathDeath|Breath of Death (Recharge 5-6)]]
 # Bonus Actions
-- Convert Spell Slots
+- [[Sorcerer#^]]
 - Create Spell Slots
 
 | SPELL SLOT LEVEL | SORCERY POINT COST |
@@ -201,6 +201,8 @@ Adventure_Diary:Yinro:
 - [[Spells#Shape Water|Shape Water]] (Cantrip, Sorcerer): Action
 - [[Spells#Firebolt|Firebolt]] (Cantrip, Sorcerer): Action
 - [[Spells#Mind Sliver|Mind Sliver]] (Cantrip, Sorcerer): Action
+- [[Spells#Mending|Mending]] (Cantrip, Sorcerer): Action
+
 - [[Spells#Shield|Shield]] (1st Level, Sorcerer): Reaction
 - [[Spells#Chaos Bolt|Chaos Bolt]] (1st Level, Sorcerer): Action
 - [[Spells#Vortex Warp|Vortex Warp]] (2nd Level, Sorcerer): Action

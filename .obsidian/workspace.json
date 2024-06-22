@@ -20,12 +20,14 @@
             }
           },
           {
-            "id": "df63c05c58455db3",
+            "id": "2e938b0b0526ba17",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.6.3"
+                "file": "DND.SRD.Wiki-master/Classes/Sorcerer.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -41,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -190,13 +191,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "df63c05c58455db3",
+  "active": "6466ae6d5703fb1b",
   "lastOpenFiles": [
-    "TTRPG notes/Yinro's Adventure Diary.md",
+    "DND.SRD.Wiki-master/Classes/Sorcerer.md",
     "TTRPG notes/Yinro Belelor.md",
+    "TTRPG notes/Yinro's Adventure Diary.md",
     "new/Nightmare.md",
     "new",
-    "DND.SRD.Wiki-master/Classes/Sorcerer.md",
     "DND.SRD.Wiki-master/Equipment/Gear.md",
     "DND.SRD.Wiki-master/Equipment/Transportation.md",
     "DND.SRD.Wiki-master/Equipment/Weapons.md",
