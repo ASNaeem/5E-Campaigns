@@ -52,7 +52,7 @@ Adventure_Diary:Yinro:
 
 |                         HP                          |             AC             |      Speed      |  Initiative   | Hit DIce                                 | Bonus        | Temp HP |
 | :-------------------------------------------------: | :------------------------: | :-------------: | :-----------: | ---------------------------------------- | :------------: | :-------: |
-| `VIEW[{base_level}*{con}+{rolled_hp}+{sorc_level}]` | `VIEW[{base_armor}+{dex}]` | `VIEW[{speed}]` | `VIEW[{dex}]` | `=this.sorc_level`d6+`=this.war_level`d8 | `=this.prof` | 0       |
+| `VIEW[{base_level}*{con}+{rolled_hp}+{sorc_level}]` | `VIEW[{base_armor}+{dex}]` | `VIEW[{speed}]` | `VIEW[{dex}]` | `=this.sorc_level`d6+`=this.war_level`d8 | `=this.prof` |   -7    |
 # Senses 
 
 | Senses                    | \#     |
