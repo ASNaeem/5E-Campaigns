@@ -286,3 +286,6 @@ arcane knowledge, guardian of arcane knowledge, practices magic, creates new mag
 
 >crystal edge marsh - lord of the light guard, dragon >ancient
 >deep boneblade - dragon - stage unknown
+
+>saved lirien, from iron hand, they got wiped by the blue dragon for failing to steal the magical stone from lord #
+>lirien said they (iron hand?) were breeding monsters.
