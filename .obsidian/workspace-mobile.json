@@ -149,9 +149,17 @@
           "type": "initiative-tracker-view",
           "state": {}
         }
+      },
+      {
+        "id": "ffb41fefbb0e3943",
+        "type": "leaf",
+        "state": {
+          "type": "mermaid-toolbar-view",
+          "state": {}
+        }
       }
     ],
-    "currentTab": 0
+    "currentTab": 4
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -167,7 +175,7 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "e71476ced5d75d16",
+  "active": "38d26e30efa85830",
   "lastOpenFiles": [
     "TTRPG notes/Yinro's Adventure Diary.md",
     "new/Nightmare.md",
