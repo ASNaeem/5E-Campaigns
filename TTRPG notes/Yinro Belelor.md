@@ -139,7 +139,7 @@ Adventure_Diary:Yinro:
 
 # Free Actions
 - **Invoke Metamagic**
-	- [[#Empowered Spell]]
+	- [[Sorcerer#Empo]]
 	- [[#Heightened Spell]]
 	- [[#Quickened Spell]]
 	- [[#Twinned Spell]]
