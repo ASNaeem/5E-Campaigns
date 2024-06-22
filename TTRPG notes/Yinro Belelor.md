@@ -126,22 +126,17 @@ Adventure_Diary:Yinro:
 - [[Items#^deathRay|Death Ray]]
 - [[Items#^deathStench|Deathly Stench]]
 - [[Items#^breathDeath|Breath of Death (Recharge 5-6)]]
-# Bonus Actions
-- [[Sorcerer#^]]
-- Create Spell Slots
 
-| SPELL SLOT LEVEL | SORCERY POINT COST |
-| :--------------: | :----------------: |
-|       1st        |         2          |
-|       2nd        |         3          |
-|       3rd        |         5          |
-|       4th        |         6          |
-|       5th        |         7          |
+# Bonus Actions
+- [[Sorcerer#^4e344b|Convert Spell Slot]]
+- [[Sorcerer#^b9d9e0|Create Spell Slot]]
+	- [[Sorcerer#^301e52|Sorcery point costs for spell slots]]
 
 # Reactions
 - [[Spells#Hellish Rebuke|Hellish Rebuke]] (1st Level, Warlock)
 - [[Spells#Shield|Shield]] (1st Level, Sorcerer)
 - [[Spells#Counterspell|Counterspell]] (3rd Level, Sorcerer)
+
 # Free Actions
 - **Invoke Metamagic**
 	- [[#Empowered Spell]]
