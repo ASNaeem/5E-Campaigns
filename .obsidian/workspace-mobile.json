@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "new/Nightmare.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -175,12 +175,12 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "38d26e30efa85830",
+  "active": "e71476ced5d75d16",
   "lastOpenFiles": [
-    "TTRPG notes/Yinro's Adventure Diary.md",
-    "new/Nightmare.md",
-    "new",
     "TTRPG notes/Yinro Belelor.md",
+    "new/Nightmare.md",
+    "TTRPG notes/Yinro's Adventure Diary.md",
+    "new",
     "DND.SRD.Wiki-master/Classes/Sorcerer.md",
     "/TTRPG notes/Yinro Belelor.md",
     "/DND.SRD.Wiki-master/Classes/Sorcerer.md",

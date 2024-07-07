@@ -14,7 +14,7 @@ Magic Academy - Amethyst Seminary
 >
 Valtor Belelor - Father, Human
 Gwendolyn Belelor - Mother
-Lirien - High elf - Yinro's master, transmutation wizard specialized in lycanthrophy
+High-elf Lirien - High elf
 magic master Xandar - Lirien's friend, Headmaster of Amethyst Seminary
 Kipper - a cheerful halfling bard with a quick wit
 Thoren - a rugged dwarven blacksmith with a strong arm and a soft heart
@@ -72,7 +72,3 @@ They had a job for the man wolf
 
 
 >sword and wings marking, underground from the incident with hand of chains
-
->lirien was working on the laylines of were creatures, the amount of were creatures in the area
-
->There are people who are after stranger power, there are one who lives in the shadows and ones who look for it, when you are capable of it, look for them.
