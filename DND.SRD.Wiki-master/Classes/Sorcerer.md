@@ -111,7 +111,7 @@ You have 2 sorcery points, and you gain more as you reach higher levels, as show
 
 You can use your sorcery points to gain additional spell slots, or sacrifice spell slots to gain additional sorcery points. You learn other ways to use your sorcery points as you reach higher levels. Any spell slot you create with this feature vanishes when you finish a long rest.
 
-***Creating Spell Slots***. You can transform unexpended sorcery points into one spell slot as a bonus action on your turn. The Creating Spell Slots table shows the cost of creating a spell slot of a given level. You can create spell slots no higher in level than 5th.
+***Creating Spell Slots***. You can transform unexpended sorcery points into one spell slot as a bonus action on your turn. The Creating Spell Slots table shows the cost of creating a spell slot of a given level. You can create spell slots no higher in level than 5th. ^b9d9e0
 
 Any spell slot you create with this feature vanishes when you finish a long rest.
 
@@ -126,7 +126,9 @@ Any spell slot you create with this feature vanishes when you finish a long rest
 | 5th              | 7                  |
 |                  |                    |
 
-***Converting a Spell Slot to Sorcery Points***. As a bonus action on your turn, you can expend one spell slot and gain a number of sorcery points equal to the slot's level.
+^301e52
+
+***Converting a Spell Slot to Sorcery Points***. As a bonus action on your turn, you can expend one spell slot and gain a number of sorcery points equal to the slot's level. ^4e344b
 
 ### Metamagic
 
@@ -134,43 +136,21 @@ At 3rd level, you gain the ability to twist your spells to suit your needs. You 
 
 You can use only one Metamagic option on a spell when you cast it, unless otherwise noted.
 
-#### Careful Spell
+***Careful Spell:*** When you cast a spell that forces other creatures to make a saving throw, you can protect some of those creatures from the spell's full force. To do so, you spend 1 sorcery point and choose a number of those creatures up to your Charisma modifier (minimum of one creature). A chosen creature automatically succeeds on its saving throw against the spell. ^b1c86a
 
-When you cast a spell that forces other creatures to make a saving throw, you can protect some of those creatures from the spell's full force. To do so, you spend 1 sorcery point and choose a number of those creatures up to your Charisma modifier (minimum of one creature). A chosen creature automatically succeeds on its saving throw against the spell.
+***Distant Spell:****When you cast a spell that has a range of 5 feet or greater, you can spend 1 sorcery point to double the range of the spell. When you cast a spell that has a range of touch, you can spend 1 sorcery point to make the range of the spell 30 feet.
 
-#### Distant Spell
+***Empowered Spell:*** When you roll damage for a spell, you can spend 1 sorcery point to reroll a number of the damage dice up to your Charisma modifier (minimum of one). You must use the new rolls. You can use Empowered Spell even if you have already used a different Metamagic option during the casting of the spell. ^06631b
 
-When you cast a spell that has a range of 5 feet or greater, you can spend 1 sorcery point to double the range of the spell.
+***Extended Spell:*** When you cast a spell that has a duration of 1 minute or longer, you can spend 1 sorcery point to double its duration, to a maximum duration of 24 hours.
 
-When you cast a spell that has a range of touch, you can spend 1 sorcery point to make the range of the spell 30 feet.
+***Heightened Spell:*** When you cast a spell that forces a creature to make a saving throw to resist its effects, you can spend 3 sorcery points to give one target of the spell disadvantage on its first saving throw made against the spell. ^dcf030
 
-#### Empowered Spell
+***Quickened Spell:*** When you cast a spell that has a casting time of 1 action, you can spend 2 sorcery points to change the casting time to 1 bonus action for this casting. ^2daed4
 
-When you roll damage for a spell, you can spend 1 sorcery point to reroll a number of the damage dice up to your Charisma modifier (minimum of one). You must use the new rolls.
+***Subtle Spell:*** When you cast a spell, you can spend 1 sorcery point to cast it without any somatic or verbal components.
 
-You can use Empowered Spell even if you have already used a different Metamagic option during the casting of the spell.
-
-#### Extended Spell
-
-When you cast a spell that has a duration of 1 minute or longer, you can spend 1 sorcery point to double its duration, to a maximum duration of 24 hours.
-
-#### Heightened Spell
-
-When you cast a spell that forces a creature to make a saving throw to resist its effects, you can spend 3 sorcery points to give one target of the spell disadvantage on its first saving throw made against the spell.
-
-#### Quickened Spell
-
-When you cast a spell that has a casting time of 1 action, you can spend 2 sorcery points to change the casting time to 1 bonus action for this casting.
-
-#### Subtle Spell
-
-When you cast a spell, you can spend 1 sorcery point to cast it without any somatic or verbal components.
-
-#### Twinned Spell
-
-When you cast a spell that targets only one creature and doesn't have a range of self, you can spend a number of sorcery points equal to the spell's level to target a second creature in range with the same spell (1 sorcery point if the spell is a cantrip).
-
-To be eligible, a spell must be incapable of targeting more than one creature at the spell's current level. For example, *magic missile* and *scorching ray* aren't eligible, but *ray of frost* and *chromatic orb* are.
+***Twinned Spell:*** When you cast a spell that targets only one creature and doesn't have a range of self, you can spend a number of sorcery points equal to the spell's level to target a second creature in range with the same spell (1 sorcery point if the spell is a cantrip). To be eligible, a spell must be incapable of targeting more than one creature at the spell's current level. For example, *magic missile* and *scorching ray* aren't eligible, but *ray of frost* and *chromatic orb* are. ^edcb35
 
 ### Ability Score Improvement
 

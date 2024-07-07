@@ -52,7 +52,7 @@ Adventure_Diary:Yinro:
 
 |                         HP                          |             AC             |      Speed      |  Initiative   | Hit DIce                                 | Bonus        | Temp HP |
 | :-------------------------------------------------: | :------------------------: | :-------------: | :-----------: | ---------------------------------------- | :------------: | :-------: |
-| `VIEW[{base_level}*{con}+{rolled_hp}+{sorc_level}]` | `VIEW[{base_armor}+{dex}]` | `VIEW[{speed}]` | `VIEW[{dex}]` | `=this.sorc_level`d6+`=this.war_level`d8 | `=this.prof` | 0       |
+| `VIEW[{base_level}*{con}+{rolled_hp}+{sorc_level}]` | `VIEW[{base_armor}+{dex}]` | `VIEW[{speed}]` | `VIEW[{dex}]` | `=this.sorc_level`d6+`=this.war_level`d8 | `=this.prof` |   -7    |
 # Senses 
 
 | Senses                    | \#     |
@@ -67,7 +67,7 @@ Adventure_Diary:Yinro:
 | STR | DEX | CON | INT | WIS | CHA | \#               |
 | :-: | :-: | :-: | :-: | :-: | :-: | ---------------- |
 |  7  | 15  | 15  | 13  |  9  | 18  | **Stats**        |
-| -2  | +2  | +2  | +2  | -1  | +4  | **Modifier**     |
+| -2  | +2  | +2  | +1  | -1  | +4  | **Modifier**     |
 | -2  | +2  | +5  | +1  | -1  | +7  | **Saving Throw** |
 
 
@@ -126,28 +126,23 @@ Adventure_Diary:Yinro:
 - [[Items#^deathRay|Death Ray]]
 - [[Items#^deathStench|Deathly Stench]]
 - [[Items#^breathDeath|Breath of Death (Recharge 5-6)]]
-# Bonus Actions
-- Convert Spell Slots
-- Create Spell Slots
 
-| SPELL SLOT LEVEL | SORCERY POINT COST |
-| :--------------: | :----------------: |
-|       1st        |         2          |
-|       2nd        |         3          |
-|       3rd        |         5          |
-|       4th        |         6          |
-|       5th        |         7          |
+# Bonus Actions
+- [[Sorcerer#^4e344b|Convert Spell Slot]]
+- [[Sorcerer#^b9d9e0|Create Spell Slot]]
+	- [[Sorcerer#^301e52|Sorcery point costs for spell slots]]
 
 # Reactions
 - [[Spells#Hellish Rebuke|Hellish Rebuke]] (1st Level, Warlock)
 - [[Spells#Shield|Shield]] (1st Level, Sorcerer)
 - [[Spells#Counterspell|Counterspell]] (3rd Level, Sorcerer)
+
 # Free Actions
 - **Invoke Metamagic**
-	- [[#Empowered Spell]]
-	- [[#Heightened Spell]]
-	- [[#Quickened Spell]]
-	- [[#Twinned Spell]]
+	- [[Sorcerer#^06631b|Empowered Spell]]
+	- [[Sorcerer#^dcf030|Heightened Spell]]
+	- [[Sorcerer#^2daed4|Quickened Spell]]
+	- [[Sorcerer#^edcb35|Twinned Spell]]
 
 # Spells
 | Stats        | Sorcerer | Warlock |
@@ -201,6 +196,8 @@ Adventure_Diary:Yinro:
 - [[Spells#Shape Water|Shape Water]] (Cantrip, Sorcerer): Action
 - [[Spells#Firebolt|Firebolt]] (Cantrip, Sorcerer): Action
 - [[Spells#Mind Sliver|Mind Sliver]] (Cantrip, Sorcerer): Action
+- [[Spells#Mending|Mending]] (Cantrip, Sorcerer): Action
+
 - [[Spells#Shield|Shield]] (1st Level, Sorcerer): Reaction
 - [[Spells#Chaos Bolt|Chaos Bolt]] (1st Level, Sorcerer): Action
 - [[Spells#Vortex Warp|Vortex Warp]] (2nd Level, Sorcerer): Action
@@ -216,9 +213,9 @@ Adventure_Diary:Yinro:
  
 # Possessions
 ## Currencies
-|CP | SP | GP | PP |
-|:---:|:---:|:---:|:---:|
-|7|2|129|0|
+| CP  | SP  | GP  | PP  |
+| :-: | :-: | :-: | :-: |
+|  7  |  2  | 119 |  0  |
 
 ## Backpack
 #### Equipment
@@ -227,8 +224,9 @@ Adventure_Diary:Yinro:
 - [[Items#Explorer's Pack|Explorer's Pack]]
 - Expensive Clothes
 - Black Clothes
-- Magic Key to a different spatial tavern
-
+- Key to Ganather's Tavern ( DIfferent dimension)
+- 450 gold worth of gems
+25 gold owed to dreamwalker
 #### Magic Items
 - [[Items#Bloodwell Vial|Bloodwell Vial (Uncommon)]]
 - [[Items#Nethergrasp|Nethergrasp]]
@@ -256,24 +254,38 @@ Adventure_Diary:Yinro:
 
 ## Class
 ### Sorcerer 
-#### Metamagic
-##### Empowered Spell
-When you roll damage for a spell, you can spend 1 sorcery point to reroll a number of the damage dice up to your Charisma modifier (minimum of one). You must use the new rolls.
-
-You can use Empowered Spell even if you have already used a different Metamagic option during the casting of the spell.
-
-##### Heightened Spell
-When you cast a spell that forces a creature to make a saving throw to resist its effects, you can spend 3 sorcery points to give one target of the spell disadvantage on its first saving throw made against the spell.
-
-##### Quickened Spell
-When you cast a spell that has a casting time of 1 action, you can spend 2 sorcery points to change the casting time to 1 bonus action for this casting.
-
-##### Twinned Spell
-When you cast a spell that targets only one creature and doesn't have a range of self, you can spend a number of sorcery points equal to the spell's level to target a second creature in range with the same spell (1 sorcery point if the spell is a cantrip).
-
-To be eligible, a spell must be incapable of targeting more than one creature at the spell's current level. For example, *magic missile* and *scorching ray* aren't eligible, but *ray of frost* and *chromatic orb* are.
+- [[Sorcerer#Dragon Ancestor|Dragon Ancestor]]
+- [[Sorcerer#Draconic Resilience|Draconic Resilience]]
+- [[Sorcerer#Metamagic|Metamagic]]
+- [[Sorcerer#Sorcerous Versatility (Optional)|Sorcerous Versatility]]
+- [[Sorcerer#Magical Guidance (Optional)|Magical Guidance]]
 
 ### Warlock
-
+- [[Warlock#]]
 ## Feats
 ### Metamagic Adept
+
+
+
+black robe,
+deeper voice, human, taller 6ft+, single person
+incompetence
+the night before
+receptionist mark
+boar head in a circle symbol
+
+>magical stone at lord armands place
+early days of creation to tame them someway of their natural evolution
+afterward it was corrupted
+
+blue dragon
+amethyst seminary stablished by
+magical tomes and magical items
+deep boneblade, crystal edge march
+arcane knowledge, guardian of arcane knowledge, practices magic, creates new magic
+
+>crystal edge marsh - lord of the light guard, dragon >ancient
+>deep boneblade - dragon - stage unknown
+
+>saved lirien, from iron hand, they got wiped by the blue dragon for failing to steal the magical stone from lord #
+>lirien said they (iron hand?) were breeding monsters.
