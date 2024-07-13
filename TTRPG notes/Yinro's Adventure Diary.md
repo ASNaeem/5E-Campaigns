@@ -72,3 +72,5 @@ They had a job for the man wolf
 
 
 >sword and wings marking, underground from the incident with hand of chains
+
+>Lightning daggers - vigilantes group, doesn't go well with the governing body of the city, has dealings with the unde
