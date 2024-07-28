@@ -25,13 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DND.SRD.Wiki-master/Classes/Warlock.md",
+                "file": "TTRPG notes/Yinro Belelor.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "TTRPG notes/Yinro's Adventure Diary.md",
+            "file": "TTRPG notes/Yinro Belelor.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "TTRPG notes/Yinro's Adventure Diary.md",
+            "file": "TTRPG notes/Yinro Belelor.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -126,7 +127,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "TTRPG notes/Yinro's Adventure Diary.md"
+            "file": "TTRPG notes/Yinro Belelor.md"
           }
         }
       },
@@ -163,18 +164,18 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "d0ed21821c8bfda2",
+  "active": "52f7c9669fbc2733",
   "lastOpenFiles": [
+    "DND.SRD.Wiki-master/Classes/Warlock.md",
+    "TTRPG notes/Yinro's Adventure Diary.md",
     "TTRPG notes/Yinro Belelor.md",
     "TTRPG notes/Spells.md",
     "new/Nightmare.md",
-    "TTRPG notes/Yinro's Adventure Diary.md",
     "new",
     "DND.SRD.Wiki-master/Classes/Sorcerer.md",
     "/TTRPG notes/Yinro Belelor.md",
     "/DND.SRD.Wiki-master/Classes/Sorcerer.md",
     "/TTRPG notes/Yinro's Adventure Diary.md",
-    "/DND.SRD.Wiki-master/Equipment/Tools.md",
-    "DND.SRD.Wiki-master/Classes/Warlock.md"
+    "/DND.SRD.Wiki-master/Equipment/Tools.md"
   ]
 }
