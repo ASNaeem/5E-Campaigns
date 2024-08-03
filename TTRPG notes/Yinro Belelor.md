@@ -166,7 +166,7 @@ Adventure_Diary:Yinro:
 | [[Spells#Shape Water\|Shape Water]]       | 1 Action | 30 feet   |      -       | Control          | 5ft., S             |
 | [[Spells#Mind Sliver\|Mind Sliver]]       | 1 Action | 60 feet   |    int 16    | 1d6 psychic      | D: 1Rnd, Special, V |
 
-#### 1st Level  <p><input type=checkbox>Pact</p><p><input     type =checkbox><input     type =checkbox><input     type =checkbox><input type=checkbox>Slots</p>
+#### 1st Level  <p><input type=checkbox><input type=checkbox>Pact</p><p><input     type =checkbox><input     type =checkbox><input     type =checkbox><input type=checkbox>Slots</p>
 
 | **Name**                                  | **Time**       | **Range** | **Hit / DC** | **Effect**     | **Notes**           |
 | ----------------------------------------- | -------------- | --------- | :----------: | -------------- | ------------------- |
