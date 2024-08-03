@@ -1,7 +1,7 @@
 ---
 base_level: 6
 sorc_level: 5
-war_level: 1
+war_level: 2
 str: -2
 dex: 2
 con: 2
@@ -10,7 +10,7 @@ wis: -1
 int: 1
 prof: 3
 base_armor: 13
-rolled_hp: 34
+rolled_hp: 41
 speed: 30
 Creator: Arpan Mukhoti
 Universe: D&D
@@ -34,12 +34,12 @@ Adventure_Diary:Yinro:
 
 ![[|locl+hs-med]] <i>[]()</i>
 
-| **Class** | **Sorcerer** | **Warlock** |
-| --------- | :----------: | :---------: |
-|**Level** | `VIEW[{sorc_level}]`|`VIEW[{war_level}]`|
-|**Race** | Human | Elf |
-|**Alignment** | Neutral | Good |
-|**Background** | Sage | Researcher |
+| **Class**      |     **Sorcerer**     |     **Warlock**     |
+| -------------- | :------------------: | :-----------------: |
+| **Level**      | `VIEW[{sorc_level}]` | `VIEW[{war_level}]` |
+| **Race**       |        Human         |         Elf         |
+| **Alignment**  |       Neutral        |        Good         |
+| **Background** |         Sage         |     Researcher      |
 # Senses
 | Senses                    |  \#   |
 | ------------------------- | :---: |
