@@ -260,27 +260,15 @@ Adventure_Diary:Yinro:
 
 ## Class
 ### Sorcerer 
-#### Metamagic
-##### Empowered Spell
-When you roll damage for a spell, you can spend 1 sorcery point to reroll a number of the damage dice up to your Charisma modifier (minimum of one). You must use the new rolls.
-
-You can use Empowered Spell even if you have already used a different Metamagic option during the casting of the spell.
-
-##### Heightened Spell
-When you cast a spell that forces a creature to make a saving throw to resist its effects, you can spend 3 sorcery points to give one target of the spell disadvantage on its first saving throw made against the spell.
-
-##### Quickened Spell
-When you cast a spell that has a casting time of 1 action, you can spend 2 sorcery points to change the casting time to 1 bonus action for this casting.
-
-##### Twinned Spell
-When you cast a spell that targets only one creature and doesn't have a range of self, you can spend a number of sorcery points equal to the spell's level to target a second creature in range with the same spell (1 sorcery point if the spell is a cantrip).
-
-To be eligible, a spell must be incapable of targeting more than one creature at the spell's current level. For example, *magic missile* and *scorching ray* aren't eligible, but *ray of frost* and *chromatic orb* are.
-
+**Metamagic:**
+- [[Sorcerer#Empowered Spell|Empowered Spell]]
+- [[Sorcerer#Heightened Spell|Heightened Spell]]
+- [[Sorcerer#Quickened Spell|Quickened Spell]]
+- [[Sorcerer#Twinned Spell|Twinned Spell]]
 ### Warlock
 **Eldritch Invocations:**
 - [[Warlock#Agonizing Blast|Agonizing Blast]]
-- [[Warlock#Grasp of Hadar]]
+- [[Warlock#Grasp of Hadar|Grasp of Hadar]]
 
 ## Feats
 ### Metamagic Adept
