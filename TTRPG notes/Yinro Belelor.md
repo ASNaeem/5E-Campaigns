@@ -179,12 +179,12 @@ Adventure_Diary:Yinro:
 
 #### 2nd Level <p><input     type =checkbox><input     type =checkbox><input     type =checkbox>Slots</p>
 
-| **Name**                                          | **Time**   | **Range** | **Hit / DC** | **Effect**     | **Notes**    |
-| ------------------------------------------------- | ---------- | --------- | :----------: | -------------- | ------------ |
-| [[Spells#Bane\|Bane]] | 1 Action   | 60 feet   |    wis 15    | 4d6 psychic    | V            |
-| [[Spells#Hellish Rebuke\|Hellish Rebuke]]         | 1 Reaction | 60 feet   |    dex 15    | 3d10 fire      | V/S          |
-| [[Spells#Chaos Bolt\|Chaos Bolt]]                 | 1 Action   | 120 feet  |      +8      | 2d8+2d6 random | Special, V/S |
-| [[Spells#Vortex Warp\|Vortex Warp]]               | 1 Action   | 90 feet   |    con 16    | Control        | Special, V/S |
+| **Name**                                  | **Time**   | **Range** | **Hit / DC** | **Effect**     | **Notes**    |
+| ----------------------------------------- | ---------- | --------- | :----------: | -------------- | ------------ |
+| [[Spells#Bane\|Bane]]                     | 1 Action   | 30 feet   |    wis 15    | 4d6 psychic    | V            |
+| [[Spells#Hellish Rebuke\|Hellish Rebuke]] | 1 Reaction | 60 feet   |    dex 15    | 3d10 fire      | V/S          |
+| [[Spells#Chaos Bolt\|Chaos Bolt]]         | 1 Action   | 120 feet  |      +8      | 2d8+2d6 random | Special, V/S |
+| [[Spells#Vortex Warp\|Vortex Warp]]       | 1 Action   | 90 feet   |    con 16    | Control        | Special, V/S |
 
 #### 3rd Level <p><input     type =checkbox><input     type =checkbox>Slots</p>
 | **Name**                                          | **Time**   | **Range** | **Hit / DC** | **Effect**     | **Notes**           |
