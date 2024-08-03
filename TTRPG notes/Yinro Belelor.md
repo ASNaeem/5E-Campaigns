@@ -216,6 +216,7 @@ Adventure_Diary:Yinro:
 - [[Spells#Minor Illusion|Minor Illusion]] (Cantrip, Warlock): Action
 - [[Spells#Bane|Bane]] (1st Level, Warlock): Action
 - [[Spells#Hellish Rebuke|Hellish Rebuke]] (1st Level, Warlock): Reaction
+- [[Spells#Hex|Hex]] (1st Level, Warlock): Bonus Action
  
 # Possessions
 ## Currencies
