@@ -278,6 +278,9 @@ When you cast a spell that targets only one creature and doesn't have a range of
 To be eligible, a spell must be incapable of targeting more than one creature at the spell's current level. For example, *magic missile* and *scorching ray* aren't eligible, but *ray of frost* and *chromatic orb* are.
 
 ### Warlock
+**Eldritch Invocations:**
+- [[Warlock#Agonizing Blast|Agonizing Blast]]
+- [[Warlock#Grasp of Hadar]]
 
 ## Feats
 ### Metamagic Adept
