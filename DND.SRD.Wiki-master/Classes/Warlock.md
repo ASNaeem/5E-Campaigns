@@ -322,6 +322,11 @@ You can cast *speak with dead* at will, without expending a spell slot.
 *Prerequisite: 15th level*
 
 You can see the true form of any shapechanger or creature concealed by illusion or transmutation magic while the creature is within 30 feet of you and within line of sight.
+#### Grasp of Hadar
+  
+**_Prerequisite:_ [eldritch blast](http://dnd5e.wikidot.com/spell:eldritch-blast) _cantrip_**
+
+Once on each of your turns when you hit a creature with your _[eldritch blast](http://dnd5e.wikidot.com/spell:eldritch-blast)_, you can move that creature in a straight line 10 feet closer to yourself.
 
 ## Otherworldly Patrons
 

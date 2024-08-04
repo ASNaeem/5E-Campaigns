@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6466ae6d5703fb1b",
+            "id": "2e938b0b0526ba17",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,24 +20,12 @@
             }
           },
           {
-            "id": "2e938b0b0526ba17",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DND.SRD.Wiki-master/Spells/Bane.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "e771f54f7a205525",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TTRPG notes/Items.md",
+                "file": "DND.SRD.Wiki-master/Classes/Warlock.md",
                 "mode": "source",
                 "source": false
               }
@@ -203,14 +191,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6466ae6d5703fb1b",
+  "active": "2e938b0b0526ba17",
   "lastOpenFiles": [
-    "DND.SRD.Wiki-master/Spells/Bane.md",
+    "DND.SRD.Wiki-master/Classes/Warlock.md",
     "TTRPG notes/Yinro Belelor.md",
     "TTRPG notes/Spells.md",
-    "DND.SRD.Wiki-master/Classes/Warlock.md",
-    "DND.SRD.Wiki-master/Classes/Sorcerer.md",
     "TTRPG notes/Items.md",
+    "DND.SRD.Wiki-master/Spells/Bane.md",
+    "DND.SRD.Wiki-master/Classes/Sorcerer.md",
     "TTRPG notes/Yinro's Adventure Diary.md",
     "new/Nightmare.md",
     "new",
