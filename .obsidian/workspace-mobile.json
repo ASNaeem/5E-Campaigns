@@ -35,12 +35,15 @@
             "id": "fe584bb584c2ec43",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "DND.SRD.Wiki-master/Classes/Sorcerer.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,6 +109,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "TTRPG notes/Yinro Belelor.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -122,6 +126,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "TTRPG notes/Yinro Belelor.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -132,7 +137,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "TTRPG notes/Yinro Belelor.md"
+          }
         }
       },
       {
@@ -168,8 +175,9 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "fe584bb584c2ec43",
+  "active": "d0ed21821c8bfda2",
   "lastOpenFiles": [
+    "DND.SRD.Wiki-master/Classes/Sorcerer.md",
     "TTRPG notes/Yinro Belelor.md",
     "TTRPG notes/Spells.md",
     "TTRPG notes/Items.md",
@@ -180,7 +188,6 @@
     "DND.SRD.Wiki-master/Classes/Warlock.md",
     "new/Nightmare.md",
     "new",
-    "DND.SRD.Wiki-master/Classes/Sorcerer.md",
     "/DND.SRD.Wiki-master/Classes/Sorcerer.md",
     "/TTRPG notes/Yinro's Adventure Diary.md",
     "/DND.SRD.Wiki-master/Equipment/Tools.md"
