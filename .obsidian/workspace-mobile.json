@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "TTRPG notes/Yinro Belelor.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -30,8 +30,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "fe584bb584c2ec43",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -97,7 +106,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "TTRPG notes/Yinro Belelor.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -114,7 +122,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "TTRPG notes/Yinro Belelor.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -125,9 +132,7 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "TTRPG notes/Yinro Belelor.md"
-          }
+          "state": {}
         }
       },
       {
@@ -163,10 +168,10 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "d0ed21821c8bfda2",
+  "active": "fe584bb584c2ec43",
   "lastOpenFiles": [
-    "TTRPG notes/Spells.md",
     "TTRPG notes/Yinro Belelor.md",
+    "TTRPG notes/Spells.md",
     "TTRPG notes/Items.md",
     "/DND.SRD.Wiki-master/Classes/Warlock.md",
     "TTRPG notes/Yinro's Adventure Diary.md",
