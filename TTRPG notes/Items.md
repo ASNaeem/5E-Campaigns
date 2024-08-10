@@ -14,7 +14,7 @@ _Wondrous Item (Glove), Rare, Requires Attunement by a (Wizard, Sorcerer, Scribe
 
 >Forged from the eye of a Catoblepas, this single glove exudes an aura of dark power, imbued with the essence of death itself.
 
-**Death Ray:** With a gesture, you unleash a beam of dark energy from the Catoblepas eye embedded in the glove, striking fear into the hearts of your enemies. The target must succeed on a DC 16 Constitution saving throw or take 36 (8d8) necrotic damage, or half as much on a successful save. If the saving throw fails by 5 or more, the target takes 64 necrotic damage and dies if reduced to 0 hit points. ^deathRay
+**Death Ray:** With a gesture, you unleash a beam of dark energy from the Catoblepas eye embedded in the glove, striking fear into the hearts of your enemies. Choose a creature within 30 ft. the target must succeed on a DC 16 Constitution saving throw or take 36 (8d8) necrotic damage, or half as much on a successful save. If the saving throw fails by 5 or more, the target takes 64 necrotic damage and dies if reduced to 0 hit points. ^deathRay
 
 **Deathly Stench:** A foul odor emanates from the glove, filling the air with the scent of decay. Those who dare to approach are met with the overwhelming presence of death. For 1 minute, a 10-foot sphere of putrid air surrounds you. Creatures entering or starting their turn in the area must make a DC 16 Constitution saving throw. On a failed save, they take 1d10 poison damage and are poisoned until the start of their next turn. On a successful save, they take half damage and are not poisoned. ^deathStench
 
