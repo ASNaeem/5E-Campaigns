@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TTRPG notes/Yinro Belelor.md",
+                "file": "TTRPG notes/Spells.md",
                 "mode": "preview",
                 "source": false
               }
@@ -109,7 +109,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "TTRPG notes/Yinro Belelor.md",
+            "file": "TTRPG notes/Spells.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "TTRPG notes/Yinro Belelor.md",
+            "file": "TTRPG notes/Spells.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -138,7 +138,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "TTRPG notes/Yinro Belelor.md"
+            "file": "TTRPG notes/Spells.md"
           }
         }
       },
@@ -177,8 +177,8 @@
   },
   "active": "d0ed21821c8bfda2",
   "lastOpenFiles": [
-    "TTRPG notes/Spells.md",
     "TTRPG notes/Yinro Belelor.md",
+    "TTRPG notes/Spells.md",
     "DND.SRD.Wiki-master/Classes/Sorcerer.md",
     "TTRPG notes/Items.md",
     "/DND.SRD.Wiki-master/Classes/Warlock.md",
