@@ -11,11 +11,9 @@
             "id": "2e938b0b0526ba17",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "TTRPG notes/Yinro Belelor.md",
-                "mode": "source",
-                "source": false
+                "file": "DND.SRD.Wiki-master/RE&.logo.png"
               }
             }
           },
@@ -120,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TTRPG notes/Yinro Belelor.md",
+                "file": "DND.SRD.Wiki-master/RE&.logo.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TTRPG notes/Yinro Belelor.md",
+                "file": "DND.SRD.Wiki-master/RE&.logo.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TTRPG notes/Yinro Belelor.md"
+                "file": "DND.SRD.Wiki-master/RE&.logo.png"
               }
             }
           },
@@ -193,8 +191,8 @@
   },
   "active": "2e938b0b0526ba17",
   "lastOpenFiles": [
-    "DND.SRD.Wiki-master/Classes/Warlock.md",
     "TTRPG notes/Yinro Belelor.md",
+    "DND.SRD.Wiki-master/Classes/Warlock.md",
     "TTRPG notes/Spells.md",
     "TTRPG notes/Items.md",
     "DND.SRD.Wiki-master/Spells/Bane.md",
