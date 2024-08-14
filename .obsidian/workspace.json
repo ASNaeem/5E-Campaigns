@@ -8,22 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2e938b0b0526ba17",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "DND.SRD.Wiki-master/RE&.logo.png"
-              }
-            }
-          },
-          {
             "id": "e771f54f7a205525",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DND.SRD.Wiki-master/Classes/Warlock.md",
+                "file": "TTRPG notes/Yinro Belelor.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0b56d2eb5b58ccba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TTRPG notes/Spells.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DND.SRD.Wiki-master/RE&.logo.png",
+                "file": "TTRPG notes/Yinro Belelor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DND.SRD.Wiki-master/RE&.logo.png",
+                "file": "TTRPG notes/Yinro Belelor.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DND.SRD.Wiki-master/RE&.logo.png"
+                "file": "TTRPG notes/Yinro Belelor.md"
               }
             }
           },
@@ -189,11 +191,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2e938b0b0526ba17",
+  "active": "e771f54f7a205525",
   "lastOpenFiles": [
+    "TTRPG notes/Spells.md",
     "TTRPG notes/Yinro Belelor.md",
     "DND.SRD.Wiki-master/Classes/Warlock.md",
-    "TTRPG notes/Spells.md",
+    "DND.SRD.Wiki-master/RE&.logo.png",
     "TTRPG notes/Items.md",
     "DND.SRD.Wiki-master/Spells/Bane.md",
     "DND.SRD.Wiki-master/Classes/Sorcerer.md",
@@ -218,13 +221,11 @@
     "TTRPG notes/Locale Template.md",
     "TTRPG notes/Button Action & Trait Templates.md",
     "TTRPG notes",
-    "TTRPG notes.md",
     "DND.SRD.Wiki-master/Treasure (Alt)",
     "DND.SRD.Wiki-master/Treasure",
     "DND.SRD.Wiki-master/Spells (Alt)",
     "DND.SRD.Wiki-master/Spells",
     "DND.SRD.Wiki-master/Races",
-    "DND.SRD.Wiki-master/RE&.logo.png",
     "DND.SRD.Wiki-master/Monsters (Alt)",
     "DND.SRD.Wiki-master/Monsters",
     "DND.SRD.Wiki-master/Gameplay",
