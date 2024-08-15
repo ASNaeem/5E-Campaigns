@@ -38,13 +38,25 @@
               "type": "markdown",
               "state": {
                 "file": "DND.SRD.Wiki-master/Classes/Sorcerer.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0f9946e144788580",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TTRPG notes/Yinro Belelor.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "DND.SRD.Wiki-master/Classes/Sorcerer.md",
+            "file": "TTRPG notes/Yinro Belelor.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "DND.SRD.Wiki-master/Classes/Sorcerer.md",
+            "file": "TTRPG notes/Yinro Belelor.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -139,7 +151,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "DND.SRD.Wiki-master/Classes/Sorcerer.md"
+            "file": "TTRPG notes/Yinro Belelor.md"
           }
         }
       },
@@ -176,12 +188,12 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "fe584bb584c2ec43",
+  "active": "0f9946e144788580",
   "lastOpenFiles": [
+    "DND.SRD.Wiki-master/Classes/Sorcerer.md",
     "TTRPG notes/Spells.md",
     "TTRPG notes/Items.md",
     "TTRPG notes/Yinro Belelor.md",
-    "DND.SRD.Wiki-master/Classes/Sorcerer.md",
     "/DND.SRD.Wiki-master/Classes/Warlock.md",
     "TTRPG notes/Yinro's Adventure Diary.md",
     "/TTRPG notes/Yinro Belelor.md",
