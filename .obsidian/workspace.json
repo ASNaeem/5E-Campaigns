@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TTRPG notes/Yinro's Adventure Diary.md",
+                "file": "TTRPG notes/Yinro Belelor.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TTRPG notes/Yinro's Adventure Diary.md",
+                "file": "TTRPG notes/Yinro Belelor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TTRPG notes/Yinro's Adventure Diary.md",
+                "file": "TTRPG notes/Yinro Belelor.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TTRPG notes/Yinro's Adventure Diary.md"
+                "file": "TTRPG notes/Yinro Belelor.md"
               }
             }
           },
@@ -193,6 +193,7 @@
   },
   "active": "e771f54f7a205525",
   "lastOpenFiles": [
+    "TTRPG notes/Yinro's Adventure Diary.md",
     "TTRPG notes/Yinro Belelor.md",
     "TTRPG notes/Spells.md",
     "DND.SRD.Wiki-master/Classes/Warlock.md",
@@ -200,7 +201,6 @@
     "TTRPG notes/Items.md",
     "DND.SRD.Wiki-master/Spells/Bane.md",
     "DND.SRD.Wiki-master/Classes/Sorcerer.md",
-    "TTRPG notes/Yinro's Adventure Diary.md",
     "new/Nightmare.md",
     "new",
     "DND.SRD.Wiki-master/Equipment/Gear.md",
