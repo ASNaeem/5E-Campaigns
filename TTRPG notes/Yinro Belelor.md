@@ -222,7 +222,7 @@ Adventure_Diary:Yinro:
 | CP  | SP  | GP  | PP  |
 | :-: | :-: | :-: | :-: |
 |  7  |  2  | 129 |  0  |
-- 450 gold worth of gems
+- 555 gold worth of gems
 ## Backpack
 #### Equipment
 - [[Items#Light Crossbow|Light Crossbow]]
