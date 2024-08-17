@@ -244,7 +244,7 @@ Adventure_Diary:Yinro:
 - [[Items#Scroll|Scroll of Burning Hand]] x1
 
 ## Companions
-- Male Baby Ursa Polaris - 13 point training
+- Male Baby Ursa Polaris - 23 point training
 # Personality
 ###### Personality Traits
 
