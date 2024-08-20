@@ -34,8 +34,6 @@ You start with the following equipment, in addition to the equipment granted by 
 - Leather armor, any simple weapon, and two daggers
 
 **Table- The Warlock**
-```
-
 
 | Level | Proficiency Bonus | Features                        | Cantrips Known | Spells Known | Spell Slots | Slot Level | Invocations Known |
 |-------|-------------------|---------------------------------|----------------|--------------|-------------|------------|-------------------|
