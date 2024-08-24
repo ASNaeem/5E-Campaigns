@@ -221,7 +221,7 @@ Adventure_Diary:Yinro:
 ## Currencies
 | CP  | SP  | GP  | PP  |
 | :-: | :-: | :-: | :-: |
-|  7  |  2  | 129 |  0  |
+|  7  |  2  | 49  |  0  |
 - 555 gold worth of gems
 ## Backpack
 #### Equipment
@@ -244,7 +244,7 @@ Adventure_Diary:Yinro:
 - [[Items#Scroll|Scroll of Burning Hand]] x1
 
 ## Companions
-- Male Baby Ursa Polaris - 23 point training
+- Male Baby Ursa Polaris - 24 point training
 # Personality
 ###### Personality Traits
 
