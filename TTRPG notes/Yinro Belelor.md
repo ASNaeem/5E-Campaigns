@@ -150,18 +150,21 @@ Adventure_Diary:Yinro:
 	- [[#Twinned Spell]]
 
 # Spells
+### Spell Attack
+
 | Stats        | Sorcerer | Warlock |
 | ------------ | :------: | :-----: |
 | Modifier     |    +4    |   +4    |
 | Spell Attack |    +8    |   +7    |
 | Save DC      |    16    |   15    |
-
+### Spell Slots
 - **1st Level:**
 <p><input type=checkbox><input type=checkbox>Pact</p>
 	<p><input     type =checkbox><input     type =checkbox><input     type =checkbox><input type=checkbox>Slots</p>
 - **2nd Level:**<p><input     type =checkbox><input     type =checkbox><input     type =checkbox>Slots</p>
 - **3rd Level:**
 <p><input     type =checkbox><input     type =checkbox>Slots</p>
+### Known Spells
 
 | **Level** | **Name**                                  | **Time** | **Range** | **Hit / DC** | **Effect**       | **Notes**           |
 | --------- | ----------------------------------------- | -------- | --------- | :----------: | ---------------- | ------------------- |
@@ -216,7 +219,7 @@ Adventure_Diary:Yinro:
 - [[Items#Explorer's Pack|Explorer's Pack]]
 - Expensive Clothes
 - Black Clothes
-- Magic Key to a different spatial tavern
+- Magic Key to Granather's Tavern
 
 #### Magic Items
 - [[Items#Bloodwell Vial|Bloodwell Vial (Uncommon)]]
@@ -256,7 +259,6 @@ When you cast a spell that forces a creature to make a saving throw to resist it
 
 ##### Quickened Spell
 When you cast a spell that has a casting time of 1 action, you can spend 2 sorcery points to change the casting time to 1 bonus action for this casting.
-
 ##### Twinned Spell
 When you cast a spell that targets only one creature and doesn't have a range of self, you can spend a number of sorcery points equal to the spell's level to target a second creature in range with the same spell (1 sorcery point if the spell is a cantrip).
 
@@ -264,5 +266,7 @@ To be eligible, a spell must be incapable of targeting more than one creature at
 
 ### Warlock
 - **Eldritch Envocations:** 
+	- Agonizing Blast: When you cast [[Spells#Eldritch Blast|Eldritch Blast]], add your Charisma modifier to the damage it deals on a hit.
+	- Thief of Five Fates: You can cast [[Spells#Bane|Bane]] once using a warlock spell slot. You can't do so again until you finish a long rest.
 ## Feats
 - **Metamagic Adept**
