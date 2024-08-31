@@ -1,5 +1,5 @@
 ---
-base_level: 6
+base_level: 7
 sorc_level: 5
 war_level: 2
 str: -2
@@ -11,7 +11,7 @@ int: 1
 prof: 3
 base_armor: 13
 rolled_hp: 41
-speed: 30
+speed: 29
 Creator: Arpan Mukhoti
 Universe: D&D
 Campaign: Verdant Tales
@@ -111,11 +111,11 @@ Adventure_Diary:Yinro:
 
 - **Weapon Attacks Table**
 
-| Weapon | Attack Bonus | Damage/Type | Range |
-| ------ | :------------: | ----------- | ----- |
-|Light Crossbow|+5|1d8 + `=this.dex` piercing|80/320 ft|
-|Dagger|+5|1d4 + `=this.dex` piercing|20/60 ft|
-|Short Sword|+5|1d6 + `=this.dex` slashing|Melee|
+| Weapon         |       Attack Bonus        | Damage/Type                | Range     |
+| -------------- | :-----------------------: | -------------------------- | --------- |
+| Light Crossbow | +`= this.dex + this.prof` | 1d8 + `=this.dex` piercing | 80/320 ft |
+| Dagger         | +`= this.dex + this.prof` | 1d4 + `=this.dex` piercing | 20/60 ft  |
+| Short Sword    | +`= this.dex + this.prof` | 1d6 + `=this.dex` slashing | Melee     |
 
 #### Movement and General
 - Dash, Disengage, Dodge, Help, Hide, Ready, Search, Use an Object
