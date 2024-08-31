@@ -156,33 +156,34 @@ Adventure_Diary:Yinro:
 | Spell Attack |    +8    |   +7    |
 | Save DC      |    16    |   15    |
 
-**1st Level:**
-<p><input type=checkbox><input type=checkbox>Pact</p><p><input     type =checkbox><input     type =checkbox><input     type =checkbox><input type=checkbox>Slots</p>
-**2nd Level:**
-<p><input     type =checkbox><input     type =checkbox><input     type =checkbox>Slots</p>
-**3rd Level:**
+- **1st Level:**
+<p><input type=checkbox><input type=checkbox>Pact</p>
+	<p><input     type =checkbox><input     type =checkbox><input     type =checkbox><input type=checkbox>Slots</p>
+- **2nd Level:**<p><input     type =checkbox><input     type =checkbox><input     type =checkbox>Slots</p>
+- **3rd Level:**
 <p><input     type =checkbox><input     type =checkbox>Slots</p>
 
 | **Level** | **Name**                                  | **Time** | **Range** | **Hit / DC** | **Effect**       | **Notes**           |
-| ---- | ----------------------------------------- | -------- | --------- | :----------: | ---------------- | ------------------- |
-| | [[Spells#Control Flames\|Control Flames]] | 1 Action | 60 feet   |      -       | Control          | 5ft., S             |
-| | [[Spells#Eldritch Blast\|Eldritch Blast]] | 1 Action | 120 feet  |      +7      | 1d10+`=this.cha` | Count: 2, V/S       |
-| | [[Spells#Fire Bolt\|Fire Bolt]]           | 1 Action | 120  feet |      +8      | 2d10             | V/S/M               |
-| | [[Spells#Mending\|Mending]]               | 1 Minute | -         |      -       | Utility          | V/S/M               |
-| | [[Spells#Minor Illusion\|Minor Illusion]] | 1 Action | 30 feet   |      -       | Control          | 5ft., S/M           |
-| | [[Spells#Shape Water\|Shape Water]]       | 1 Action | 30 feet   |      -       | Control          | 5ft., S             |
-| | [[Spells#Mind Sliver\|Mind Sliver]]       | 1 Action | 60 feet   |    int 16    | 1d6 psychic      | D: 1Rnd, Special, V |
+| --------- | ----------------------------------------- | -------- | --------- | :----------: | ---------------- | ------------------- |
+| Cantrip   | [[Spells#Control Flames\|Control Flames]] | 1 Action | 60 feet   |      -       | Control          | 5ft., S             |
+| Cantrip   | [[Spells#Eldritch Blast\|Eldritch Blast]] | 1 Action | 120 feet  |      +7      | 1d10+`=this.cha` | Count: 2, V/S       |
+| Cantrip   | [[Spells#Fire Bolt\|Fire Bolt]]           | 1 Action | 120  feet |      +8      | 2d10             | V/S/M               |
+| Cantrip   | [[Spells#Mending\|Mending]]               | 1 Minute | -         |      -       | Utility          | V/S/M               |
+| Cantrip   | [[Spells#Minor Illusion\|Minor Illusion]] | 1 Action | 30 feet   |      -       | Control          | 5ft., S/M           |
+| Cantrip   | [[Spells#Shape Water\|Shape Water]]       | 1 Action | 30 feet   |      -       | Control          | 5ft., S             |
+| Cantrip   | [[Spells#Mind Sliver\|Mind Sliver]]       | 1 Action | 60 feet   |    int 16    | 1d6 psychic      | D: 1Rnd, Special, V |
 
-| Level | **Name**                                  | **Time**       | **Range** | **Hit / DC** | **Effect**     | **Notes**            |
-| ----- | ----------------------------------------- | -------------- | --------- | :----------: | -------------- | -------------------- |
-| 1     | [[Spells#Bane\|Bane]]                     | 1 Action       | 60 feet   |    wis 15    | Debuff         | V                    |
-| 1     | [[Spells#Chaos Bolt\|Chaos Bolt]]         | 1 Action       | 120 feet  |      +8      | 2d8+3d6 random | Special, V/S         |
-| 1     | [[Spells#Hellish Rebuke\|Hellish Rebuke]] | 1 Reaction     | 60 feet   |    dex 15    | 4d10 fire      | V/S                  |
-| 1     | [[Spells#Hex\|Hex]]                       | 1 Bonus Action | 90 feet   |              | 1d6            | D:8Hr, Special, V/S  |
-| 2     | [[Spells#Vortex Warp\|Vortex Warp]]       | 1 Action       | 120 feet  |    con 16    | Control        | Special, V/S         |
-| 3     | [[Spells#Counterspell\|Counterspell]]     | 1 Reaction     | 60 feet   |      -       | Negation       | Special, S           |
-| 3     | [[Spells#Fireball\|Fireball]]             | 1 Action       | 150 feet  |    dex 15    | 8d6 fire       | 20ft. V/S/M          |
-| 3     | [[Spells#Slow\|Slow]]                     | 1 Action       | 120 feet  |    wis 16    | Control        | D: 1m, 40ft., V/S/MP |
+| **Level** | **Name**                                  | **Time**       | **Range** | **Hit / DC** | **Effect**     | **Notes**            |
+| --------- | ----------------------------------------- | -------------- | --------- | :----------: | -------------- | -------------------- |
+| 1         | [[Spells#Bane\|Bane]]                     | 1 Action       | 60 feet   |    wis 16    | Debuff         | D:10Min, Special, V  |
+| 1         | [[Spells#Chaos Bolt\|Chaos Bolt]]         | 1 Action       | 120 feet  |      +8      | 2d8+3d6 random | Special, V/S         |
+| 1         | [[Spells#Hellish Rebuke\|Hellish Rebuke]] | 1 Reaction     | 60 feet   |    dex 16    | 4d10 fire      | V/S                  |
+| 1         | [[Spells#Hex\|Hex]]                       | 1 Bonus Action | 90 feet   |      -       | 1d6            | D:1Hr, Special, V/S  |
+| 2         | [[Spells#Vortex Warp\|Vortex Warp]]       | 1 Action       | 120 feet  |    con 16    | Control        | Special, V/S         |
+| 3         | [[Spells#Counterspell\|Counterspell]]     | 1 Reaction     | 60 feet   |      -       | Negation       | Special, S           |
+| 3         | [[Spells#Fireball\|Fireball]]             | 1 Action       | 150 feet  |    dex 16    | 8d6 fire       | 20ft. V/S/M          |
+| 3         | [[Spells#Slow\|Slow]]                     | 1 Action       | 120 feet  |    wis 16    | Control        | D: 1m, 40ft., V/S/MP |
+|           |                                           |                |           |              |                |                      |
 
 #### Sorcerer Spells
 - [[Spells#Control Flames|Control Flames]] (Cantrip, Sorcerer): Action
@@ -262,6 +263,6 @@ When you cast a spell that targets only one creature and doesn't have a range of
 To be eligible, a spell must be incapable of targeting more than one creature at the spell's current level. For example, *magic missile* and *scorching ray* aren't eligible, but *ray of frost* and *chromatic orb* are.
 
 ### Warlock
-
+- **Eldritch Envocations:** 
 ## Feats
-### Metamagic Adept
+- **Metamagic Adept**
